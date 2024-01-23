@@ -1,7 +1,5 @@
 # Binary Tree Visualizer
 
-![Binary Tree Visualizer](https://bunyod-suvonov.github.io/Binary-Tree-Visualizer/screenshot.png)
-
 ## Overview
 
 Binary Tree Visualizer is a web application that allows users to visualize binary trees, max-heaps, and binary search trees. It provides an interactive interface to input array values and dynamically generates corresponding visualizations. This project uses D3.js for creating scalable and interactive data visualizations.
